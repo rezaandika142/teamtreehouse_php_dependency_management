@@ -1,0 +1,14 @@
+{
+    "name": "roxdevel/phpmailer",
+    "description": "Tes phpmailer to server gmail",
+    "authors": [
+        {
+            "name": "roxdevel",
+            "email": "rezaandika1234509876@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.1",
+        "league/oauth2-google": "^3.0"
+    }
+}
